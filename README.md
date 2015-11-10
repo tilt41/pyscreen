@@ -1,5 +1,5 @@
 # pyscreen
-Take screenshot of desktop using python
+Takes a screenshot of desktop using python
 
 Tested on Python 2.7
 
